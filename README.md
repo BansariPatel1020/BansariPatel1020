@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/BansariPatel1020/BansariPatel1020/blob/main/GitHub%20Banner.gif)
+![MasterHead](https://github.com/BansariPatel1020/BansariPatel1020/blob/main/Bansari's%20README.png)
 <h1 align="center">Hi 👋, I'm Bansari Patel</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
